@@ -1558,7 +1558,8 @@ odm/lib64/vendor.pixelworks.hardware.feature@1.1.so
 vendor/lib64/libpwirisfeature.so;MODULE_SUFFIX=_vendor
 vendor/lib64/libpwirishal.so
 vendor/lib64/libpwirishalwrapper.so;MODULE_SUFFIX=_vendor
-vendor/lib64/vendor.pixelworks.hardware.display-V2-ndk.so
+vendor/lib64/vendor.pixelworks.hardware.display-V2-ndk.so:odm/lib64/vendor.pixelworks.hardware.display-V2-ndk.so
+vendor/lib64/vendor.pixelworks.hardware.display-V2-ndk.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.pixelworks.hardware.display@1.0.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.pixelworks.hardware.display@1.1.so;MODULE_SUFFIX=_vendor
 vendor/lib64/vendor.pixelworks.hardware.display@1.2.so;MODULE_SUFFIX=_vendor
