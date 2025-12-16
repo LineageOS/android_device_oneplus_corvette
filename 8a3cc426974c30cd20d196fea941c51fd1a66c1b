@@ -16,6 +16,24 @@
       "message": "Isn\u0027t odm variant available on stock?",
       "revId": "8a3cc426974c30cd20d196fea941c51fd1a66c1b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f10e63c_200557b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-12-16T13:30:25Z",
+      "side": 1,
+      "message": "Only vendor variant available.",
+      "parentUuid": "a58a66cd_750c2ce2",
+      "revId": "8a3cc426974c30cd20d196fea941c51fd1a66c1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
