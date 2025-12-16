@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5473245a_76f4373e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-16T14:53:27Z",
+      "side": 1,
+      "message": "It\u0027d be nice if we had all these interfaces reversed.\n\nFor a start: https://github.com/pjgowtham/hardware_pixelworks_interfaces",
+      "revId": "67a5691c9e2b0fa18ba95450e62505da89835eb3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
