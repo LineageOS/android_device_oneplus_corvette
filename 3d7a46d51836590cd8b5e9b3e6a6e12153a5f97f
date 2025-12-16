@@ -16,6 +16,24 @@
       "message": "Why this? Seems like face unlock thing.",
       "revId": "3d7a46d51836590cd8b5e9b3e6a6e12153a5f97f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6138b946_419599ce",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 1683,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-16T13:25:49Z",
+      "side": 1,
+      "message": "Yea, this is the fw for biometrics face unlock. Not needed.",
+      "parentUuid": "8ddb568b_b48ae74e",
+      "revId": "3d7a46d51836590cd8b5e9b3e6a6e12153a5f97f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
