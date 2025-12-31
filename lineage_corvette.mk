@@ -23,8 +23,8 @@ PRODUCT_MODEL := PJX110
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi-user 16 BP2A.250605.015 1763260541838 release-keys" \
-    BuildFingerprint=OnePlus/PJX110/OP5D06L1:16/UKQ1.231108.001/U.f9aed0_1164c89_1164c8b:user/release-keys \
+    BuildDesc="qssi-user 16 BP2A.250605.015 1765980553687 release-keys" \
+    BuildFingerprint=OnePlus/PJX110/OP5D06L1:16/UKQ1.231108.001/U.2919651-77fc9d-7bc0a2:user/release-keys \
     DeviceName=OP5D06L1 \
     DeviceProduct=PJX110 \
     SystemDevice=OP5D06L1 \

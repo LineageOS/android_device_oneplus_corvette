@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus Ace 3 Pro (PJX110_16.0.1.301(CN01)).
+## are from OnePlus Ace 3 Pro (PJX110_16.0.2.400(CN01)).
 
 # Current blobs with deps disabled:
 # com.oplus.node.mvgsat, com.oplus.node.sstabphoto, com.qti.node.dewarp, com.qti.chi.override, libcamximageformatutils, libchifeature2 depends on multiple versions of the same aidl_interface: android.hardware.graphics.allocator-V1-ndk, android.hardware.graphics.allocator-V2-ndk-source
@@ -621,6 +621,9 @@ odm/etc/camera/hybridraw_models/uw_binning_ev0_supernight.bin
 odm/etc/camera/hybridraw_models/uw_binning_evm.bin
 odm/etc/camera/hybridraw_models/uw_quadbayer_ev0.bin
 odm/etc/camera/hybridraw_models/uw_quadbayer_evm.bin
+odm/etc/camera/meishe_lut/800t_blues.bin
+odm/etc/camera/meishe_lut/800t_hdr.bin
+odm/etc/camera/meishe_lut/800t_sdr.bin
 odm/etc/camera/meishe_lut/ByYo3If
 odm/etc/camera/meishe_lut/Cold.cube.rgb.bin
 odm/etc/camera/meishe_lut/DL_A_MoneyBall.bin
